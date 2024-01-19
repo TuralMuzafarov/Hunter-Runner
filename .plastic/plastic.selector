@@ -1,0 +1,4 @@
+repository "EndlessRunner3D@turalMuzafarov@cloud"
+  path "/"
+    br "/main"
+    co "/main"
